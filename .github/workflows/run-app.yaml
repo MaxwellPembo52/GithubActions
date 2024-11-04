@@ -1,4 +1,4 @@
-name: 'Maxwell Pembo'
+name: 'Maxwell Pembo test'
 
 on: [push, pull_request]
 
